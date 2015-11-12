@@ -3,7 +3,7 @@
 # default settings
 #update=true
 repository='ole--rpi-bells'
-user='dogi'
+user='SadiaRasheed'
 directory='qa'
 network=''
 password=''
